@@ -25,15 +25,15 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho conheciment
 
 Explore alguns dos meus repositórios para ver meu trabalho em ação:
 
--   **[CRUD - Sigtema de Cadastramento de Fundos de Investimento](https://github.com/leandrodasilvasantos/nome-do-projeto-1)**:
+-   **[CRUD - Sigtema de Cadastramento de Fundos de Investimento](https://github.com/leandrodasilvasantos/Investment-Fund-Registration-System)**:
     _O projeto foi um desafio para uma advisory, na qual foi solicitado um sistema de cadastramento de fundos de investimento, com relatórios e informações relevantes dos analistas, a ideia inicial foi complementada no desafio posterior onde foi proposto que esses fundos cadastrados fossem processados por um sistema de IA, onde tiraria insights desse sistema de cadastros._   
 
     _Stack utilizada:._ `JavaScript` ` Python` `React` `Node.js` `Docker` `MongoDB`   
     
     
--   **[Oracle - Challenge](https://github.com/leandrodasilvasantos/nome-do-projeto-2)**:
+-   **[Oracle - Challenge](https://github.com/leandrodasilvasantos/oracleone-challenge2)**:
     _Jogo da forca simples, iniciando desenvolvimento frontend._
--   **[Heath Table](https://github.com/leandrodasilvasantos/nome-do-projeto-3)**:
+-   **[Health Table](https://github.com/leandrodasilvasantos/health-table)**:
     _Utilizando API Externa, tabela de cadastro simples de pacientes._
 
 
