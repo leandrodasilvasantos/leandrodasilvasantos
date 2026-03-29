@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/leandrodasilvasantos?style=social)](https://github.com/leandrodasilvasantos)
 [![GitHub stars](https://img.shields.io/github/stars/leandrodasilvasantos?style=social)](https://github.com/leandrodasilvasantos)
 
-Atualmente sou estudante de engenharia da escola politécnica da USP [Poli-USP], tenho apego com o setor da tecnologia desde sempre, e tendo atualmente uma afinidade e interesse por finanças quantitativas.
+Atualmente sou estudante de engenharia da escola politécnica da USP [Poli-USP], estudo a área de tecnologia desde os 14 anos, iniciando com Java. Além disso, tenho experiências práticas com desenvolvimento Full-Stack e desenvolvimentos de Sistemas de IA com Retrieval-Augmented Generation (RAG), arquitetura de banco de dados e computação em nuvem com Azure.
 
 ---
 
@@ -13,11 +13,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho conheciment
 
 | Categoria      | Tecnologias                                                                                                |
 | :------------- | :--------------------------------------------------------------------------------------------------------- |
-| **Linguagens** |`Java` `Python`  `JavaScript`                                                                  |
-| **Frameworks** | `Spring Boot` `Django`  `Node.js`                                                           |
+| **Linguagens** |`Java` `Python`  `JavaScript`  `TypeScript`                                                                |
+| **Frameworks** | `NestJS` `React`  `Node.js`                                                           |
 | **Banco de Dados** | `PostgreSQL` `MySQL` `MongoDB`                                                               |
-| **Cloud & DevOps** | `Docker`  `AWS` `Azure` `Git`                                             |
-| **Outros** | `APIs RESTful` `Microsserviços` `Testes Automatizados` `Análise de Dados` `Machine Learning (básico)`      |
+| **Cloud & DevOps** | `Docker`  `Azure` `Git`                                             |
+| **APIs/Outros** | `FastAPI` `Microsserviços` `Análise de Dados` `Machine Learning`      |
 
 ---
 
